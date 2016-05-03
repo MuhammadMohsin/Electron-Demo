@@ -1,6 +1,6 @@
 # Angular-Electron-Demo
 
-You can use it by running this demo on any local server (webstrom is recommended because it makes its own localhost server).
+You can run this demo on any local server (Webstorm IDE is recommended because it run apps on its own localserver by default).
 
 Steps to start it,
 
